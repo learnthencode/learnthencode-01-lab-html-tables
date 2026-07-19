@@ -1,0 +1,54 @@
+{
+  "requirements": [
+    {
+      "id": "table-exists",
+      "description": "The page should contain a table element",
+      "assertion": {
+        "type": "element",
+        "selector": "table"
+      }
+    },
+    {
+      "id": "table-caption",
+      "description": "The table should have a caption describing the menu",
+      "assertion": {
+        "type": "element",
+        "selector": "table caption"
+      }
+    },
+    {
+      "id": "table-header",
+      "description": "The table should contain table headers",
+      "assertion": {
+        "type": "element",
+        "selector": "table thead th"
+      }
+    },
+    {
+      "id": "table-body",
+      "description": "The table should contain a table body",
+      "assertion": {
+        "type": "element",
+        "selector": "table tbody"
+      }
+    },
+    {
+      "id": "drink-rows",
+      "description": "The menu should contain at least three drinks",
+      "assertion": {
+        "type": "count",
+        "selector": "table tbody tr",
+        "minimum": 3
+      }
+    },
+    {
+      "id": "price-column",
+      "description": "Each drink should include a price",
+      "assertion": {
+        "type": "count",
+        "selector": "table tbody td",
+        "minimum": 6
+      }
+    }
+  ]
+}

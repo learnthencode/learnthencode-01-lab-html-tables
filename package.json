@@ -1,0 +1,12 @@
+{
+  "name": "learnthencode-01-lab-html-tables",
+  "version": "1.0.0",
+  "description": "LearnThenCode HTML Tables Lab",
+  "private": true,
+  "scripts": {
+    "test": "learnthencode-test run"
+  },
+  "devDependencies": {
+    "learnthencode-testing": "github:learnthencode/learnthencode-testing#v1.0.0"
+  }
+}
