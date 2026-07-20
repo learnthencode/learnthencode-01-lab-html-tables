@@ -1,3 +1,17 @@
 {
-  "entry": "starter/index.html"
+  "id": "html-headings",
+
+  "title": "HTML Headings",
+
+  "language": "html",
+
+  "entry": "starter/index.html",
+
+  "provider": "local",
+
+  "tests": "./private-tests",
+
+  "lesson": "lesson-01",
+
+  "version": "1.0.0"
 }
