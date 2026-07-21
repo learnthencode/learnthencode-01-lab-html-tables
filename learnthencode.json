@@ -1,7 +1,7 @@
 {
-  "id": "html-headings",
+  "id": "html-tables",
 
-  "title": "HTML Headings",
+  "title": "HTML Tables",
 
   "language": "html",
 
@@ -13,5 +13,5 @@
 
   "lesson": "lesson-01",
 
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
