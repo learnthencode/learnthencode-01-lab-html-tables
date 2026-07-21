@@ -67,7 +67,7 @@ npm install
 Then, run the automated tests:
 
 ```bash
-npx learnthencode-test run
+npm test
 ```
 
 If all requirements have been satisfied, the tests will pass successfully.
