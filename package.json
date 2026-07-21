@@ -7,6 +7,6 @@
     "test": "learnthencode-test run"
   },
   "devDependencies": {
-    "learnthencode-testing": "github:learnthencode/learnthencode-testing#v1.0.1"
+    "learnthencode-testing": "github:learnthencode/learnthencode-testing#v1.0.2"
   }
 }
